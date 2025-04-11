@@ -1,3 +1,4 @@
 # PruebasRepositorio
 Repositorio para pruebas
-Vamos a añadir una nueva línea para el primer commit
+Eliminamos una línea para la prueba    
+Añadimos otra de prueba
